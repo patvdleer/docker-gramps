@@ -26,7 +26,7 @@ RUN apt-get -y install \
     python3-gi \
     python3-gi-cairo \
     python3-pip \
-    python-pyicu \
+    python3-icu \
     xdg-utils \
     xvfb
 
